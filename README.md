@@ -12,4 +12,4 @@ Leetcode solutions in Python
 |6|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](006.%20Isomorphic%20Strings/solution.py)|[Note](006.%20Isomorphic%20Strings/README.md)|Easy|`String`|
 |7|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](007.%20Is%20Subsequence/solution.py)|[Note](007.%20Is%20Subsequence/README.md)|Easy|`String`|
 |8|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](008.%20Merge%20Two%20Sorted%20Lists/solution.py)|[Note](008.%20Merge%20Two%20Sorted%20Lists/README.md)|Easy|`Linked List`|
-
+|9|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](009.%20Reverse%20Linked%20List/solution.py)|[Note](009.%20Reverse%20Linked%20List/README.md)|Easy|`Linked List`|
