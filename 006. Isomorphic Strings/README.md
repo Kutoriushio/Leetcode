@@ -10,7 +10,7 @@
 
 in both dictionaries.
 
-   (b) If either have a maaping in dictionary and the key-value pairs in the two dictionaries do not correspond, return False.
+3. (b) If either have a maaping in dictionary and the key-value pairs in the two dictionaries do not correspond, return False.
 
 ## Solution2:
 
