@@ -9,3 +9,4 @@ Leetcode solutions in Python
 |3|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](003.%20Remove%20Duplicates%20from%20Sorted%20Array/solution.py)|[Note](003.%20Remove%20Duplicates%20from%20Sorted%20Array/README.md)|Easy|`Array`|
 |4|[Plus One](https://leetcode.com/problems/plus-one/)|[Python](004.%20Plus%20One/solution.py)|[Note](004.%20Plus%20One/README.md)|Easy|`Array`|
 |5|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](005.%20Merge%20Sorted%20Array/solution.py)|[Note](005.%20Merge%20Sorted%20Array/README.md)|Easy|`Array`|
+|5|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](006.%20Isomorphic%20Strings/solution.py)|[Note](006.%20Isomorphic%20Strings/README.md)|Easy|`Array`|
