@@ -10,8 +10,8 @@
 
 in both dictionaries.
 
-3. (b) If either have a maaping in dictionary and the key-value pairs in the two dictionaries do not correspond, return False.
+3. (b) If either have a maaping in dictionary and the key-value pairs in the two dictionaries do not correspond, return `False`.
 
 ## Solution2:
 
-Use set to remove duplicate elements in `s`, `t` and `zip(s,t)`, if they have different lengths, return False.
+Use set to remove duplicate elements in `s`, `t` and `zip(s,t)`, if they have different lengths, return `False`.
