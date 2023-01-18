@@ -7,3 +7,4 @@ Leetcode solutions in Python
 |1|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Python](001.%20Find%20Pivot%20Index/solution.py)|[Note](001.%20Find%20Pivot%20Index/README.md)|Easy|`Array`|
 |2|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](002.%20Two%20Sum/solution.py)|[Note](002.%20Two%20Sum/README.md)|Easy|`Array`|
 |3|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](003.%20Remove%20Duplicates%20from%20Sorted%20Array/solution.py)|[Note](003.%20Remove%20Duplicates%20from%20Sorted%20Array/README.md)|Easy|`Array`|
+|4|[Plus One](https://leetcode.com/problems/plus-one/)|[Python](004.%20Plus%20One/solution.py)|[Note](004.%20Plus%20One/README.md)|Easy|`Array`|
