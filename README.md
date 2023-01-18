@@ -8,3 +8,4 @@ Leetcode solutions in Python
 |2|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](002.%20Two%20Sum/solution.py)|[Note](002.%20Two%20Sum/README.md)|Easy|`Array`|
 |3|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](003.%20Remove%20Duplicates%20from%20Sorted%20Array/solution.py)|[Note](003.%20Remove%20Duplicates%20from%20Sorted%20Array/README.md)|Easy|`Array`|
 |4|[Plus One](https://leetcode.com/problems/plus-one/)|[Python](004.%20Plus%20One/solution.py)|[Note](004.%20Plus%20One/README.md)|Easy|`Array`|
+|5|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](004.%20Plus%20One/solution.py)|[Note](004.%20Plus%20One/README.md)|Easy|`Array`|
