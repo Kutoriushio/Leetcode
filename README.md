@@ -10,4 +10,6 @@ Leetcode solutions in Python
 |4|[Plus One](https://leetcode.com/problems/plus-one/)|[Python](004.%20Plus%20One/solution.py)|[Note](004.%20Plus%20One/README.md)|Easy|`Array`|
 |5|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](005.%20Merge%20Sorted%20Array/solution.py)|[Note](005.%20Merge%20Sorted%20Array/README.md)|Easy|`Array`|
 |6|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](006.%20Isomorphic%20Strings/solution.py)|[Note](006.%20Isomorphic%20Strings/README.md)|Easy|`String`|
-|7|[Is Subsequence(https://leetcode.com/problems/is-subsequence/)|[Python](007.%20Is%20Subsequence/solution.py)|[Note](007.%20Is%20Subsequence/README.md)|Easy|`String`|
+|7|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](007.%20Is%20Subsequence/solution.py)|[Note](007.%20Is%20Subsequence/README.md)|Easy|`String`|
+|8|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](008.%20Merge%20Two%20Sorted%20Lists/solution.py)|[Note](008.%20Merge%20Two%20Sorted%20Lists/README.md)|Easy|`Linked List`|
+
