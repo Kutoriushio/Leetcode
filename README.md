@@ -13,5 +13,5 @@ Leetcode solutions in Python
 |7|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](007.%20Is%20Subsequence/solution.py)|[Note](007.%20Is%20Subsequence/README.md)|Easy|`String`|
 |8|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](008.%20Merge%20Two%20Sorted%20Lists/solution.py)|[Note](008.%20Merge%20Two%20Sorted%20Lists/README.md)|Easy|`Linked List`|
 |9|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](009.%20Reverse%20Linked%20List/solution.py)|[Note](009.%20Reverse%20Linked%20List/README.md)|Easy|`Linked List`|
-|9|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](010.%20Roman%20to%20Integer/solution.py)|[Note](010.%20Roman%20to%20Integer/README.md)|Easy|`String`|
+|10|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](010.%20Roman%20to%20Integer/solution.py)|[Note](010.%20Roman%20to%20Integer/README.md)|Easy|`String`|
 
