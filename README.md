@@ -17,3 +17,4 @@ Leetcode solutions in Python
 |11|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](011.%20Middle%20of%20the%20Linked%20List/solution.py)|[Note](011.%20Middle%20of%20the%20Linked%20List/README.md)|Easy|`Linked List`|
 |12|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](012.%20Linked%20List%20Cycle/solution.py)|[Note](012.%20Linked%20List%20Cycle/README.md)|Easy|`Linked List`|
 |13|[Linked List Cycle II ](https://leetcode.com/problems/linked-list-cycle-ii/)|[Python](013.%20Linked%20List%20Cycle%20II/solution.py)|[Note](013.%20Linked%20List%20Cycle%20II/README.md)|Medium|`Linked List`|
+|14|[Best Time to Buy and Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](014.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.py)|[Note](014.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/README.md)|Easy|`Greedy`|
