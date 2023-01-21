@@ -20,3 +20,4 @@ Leetcode solutions in Python
 |14|[Best Time to Buy and Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](014.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.py)|[Note](014.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/README.md)|Easy|`Greedy`|
 |15|[Longest Palindrome ](https://leetcode.com/problems/longest-palindrome/)|[Python](015.%20Longest%20Palindrome/solution.py)|[Note](015.%20Longest%20Palindrome/README.md)|Easy|`Hash Table`|
 |16|[Longest Common Prefix ](https://leetcode.com/problems/longest-common-prefix/)|[Python](016.%20Longest%20Common%20Prefix/solution.py)|[Note](016.%20Longest%20Common%20Prefix/README.md)|Easy|`String`|
+|17|[Valid Parentheses ](https://leetcode.com/problems/valid-parentheses/)|[Python](017.%20Valid%20Parentheses/solution.py)|[Note](017.%20Valid%20Parentheses/README.md)|Easy|`Stack`|
