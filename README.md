@@ -21,3 +21,4 @@ Leetcode solutions in Python
 |15|[Longest Palindrome ](https://leetcode.com/problems/longest-palindrome/)|[Python](015.%20Longest%20Palindrome/solution.py)|[Note](015.%20Longest%20Palindrome/README.md)|Easy|`Hash Table`|
 |16|[Longest Common Prefix ](https://leetcode.com/problems/longest-common-prefix/)|[Python](016.%20Longest%20Common%20Prefix/solution.py)|[Note](016.%20Longest%20Common%20Prefix/README.md)|Easy|`String`|
 |17|[Valid Parentheses ](https://leetcode.com/problems/valid-parentheses/)|[Python](017.%20Valid%20Parentheses/solution.py)|[Note](017.%20Valid%20Parentheses/README.md)|Easy|`Stack`|
+|18|[Valid Palindrome ](https://leetcode.com/problems/valid-palindrome/)|[Python](018.%20Valid%20Palindrome/solution.py)|[Note](018.%20Valid%20Palindrome/README.md)|Easy|`String`|
