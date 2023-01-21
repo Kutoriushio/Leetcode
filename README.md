@@ -26,3 +26,4 @@ Leetcode solutions in Python
 |20|[Valid Anagram ](https://leetcode.com/problems/valid-anagram/)|[Python](020.%20Valid%20Anagram/solution.py)|[Note](020.%20Valid%20Anagram/README.md)|Easy|`String`|
 |21|[Reverse String ](https://leetcode.com/problems/reverse-string/)|[Python](021.%20Reverse%20String/solution.py)|[Note](021.%20Reverse%20String/README.md)|Easy|`String`|
 |22|[First Unique Character in a String ](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](022.%20First%20Unique%20Character%20in%20a%20String/solution.py)|[Note](022.%20First%20Unique%20Character%20in%20a%20String/README.md)|Easy|`String`|
+|23|[Fizz Buzz ](https://leetcode.com/problems/fizz-buzz/)|[Python](023.%20Fizz%20Buzz/solution.py)|[Note](023.%20Fizz%20Buzz/README.md)|Easy|`String`|
