@@ -23,3 +23,4 @@ Leetcode solutions in Python
 |17|[Valid Parentheses ](https://leetcode.com/problems/valid-parentheses/)|[Python](017.%20Valid%20Parentheses/solution.py)|[Note](017.%20Valid%20Parentheses/README.md)|Easy|`Stack`|
 |18|[Valid Palindrome ](https://leetcode.com/problems/valid-palindrome/)|[Python](018.%20Valid%20Palindrome/solution.py)|[Note](018.%20Valid%20Palindrome/README.md)|Easy|`String`|
 |19|[Excel Sheet Column Number ](https://leetcode.com/problems/excel-sheet-column-number/)|[Python](019.%20Excel%20Sheet%20Column%20Number/solution.py)|[Note](019.%20Excel%20Sheet%20Column%20Number/README.md)|Easy|`String`|
+|20|[Valid Anagram ](https://leetcode.com/problems/valid-anagram/)|[Python](020.%20Valid%20Anagram/solution.py)|[Note](020.%20Valid%20Anagram/README.md)|Easy|`String`|
