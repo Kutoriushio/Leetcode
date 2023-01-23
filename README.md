@@ -30,5 +30,5 @@ Leetcode solutions in Python
 |24|[Convert Sorted Array to Binary Search Tree ](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Python](024.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/solution.py)|[Note](024.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/README.md)|Easy|`Array`|
 |25|[N-ary Tree Preorder Traversal ](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Python](025.%20N-ary%20Tree%20Preorder%20Traversal/solution.py)|[Note](025.%20N-ary%20Tree%20Preorder%20Traversal/README.md)|Easy|`Tree`|
 |26|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](026.%20Binary%20Tree%20Level%20Order%20Traversal/solution.py)|[Note](026.%20Binary%20Tree%20Level%20Order%20Traversal/README.md)|Medium|`Tree`|
-|27|[Binary Search](https://leetcode.com/problems/binary-search/)|[Python](027.%20Binary%20Search/solution.py)|[Note](027.%20Binary%20Search/README.md)|Medium|`Binary Search`|
-|27|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python](028.%20First%20Bad%20Version/solution.py)|[Note](028.%20First%20Bad%20Version/README.md)|Medium|`Binary Search`|
+|27|[Binary Search](https://leetcode.com/problems/binary-search/)|[Python](027.%20Binary%20Search/solution.py)|[Note](027.%20Binary%20Search/README.md)|Easy|`Binary Search`|
+|28|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python](028.%20First%20Bad%20Version/solution.py)|[Note](028.%20First%20Bad%20Version/README.md)|Easy|`Binary Search`|
