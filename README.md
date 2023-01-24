@@ -32,3 +32,4 @@ Leetcode solutions in Python
 |26|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](026.%20Binary%20Tree%20Level%20Order%20Traversal/solution.py)|[Note](026.%20Binary%20Tree%20Level%20Order%20Traversal/README.md)|Medium|`Tree`|
 |27|[Binary Search](https://leetcode.com/problems/binary-search/)|[Python](027.%20Binary%20Search/solution.py)|[Note](027.%20Binary%20Search/README.md)|Easy|`Binary Search`|
 |28|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python](028.%20First%20Bad%20Version/solution.py)|[Note](028.%20First%20Bad%20Version/README.md)|Easy|`Binary Search`|
+|29|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python](028.%20First%20Bad%20Version/solution.py)|[Note](028.%20First%20Bad%20Version/README.md)|Easy|`Binary Search`|
