@@ -33,3 +33,4 @@ Leetcode solutions in Python
 |27|[Binary Search](https://leetcode.com/problems/binary-search/)|[Python](027.%20Binary%20Search/solution.py)|[Note](027.%20Binary%20Search/README.md)|Easy|`Binary Search`|
 |28|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python](028.%20First%20Bad%20Version/solution.py)|[Note](028.%20First%20Bad%20Version/README.md)|Easy|`Binary Search`|
 |29|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python](029.%20Sqrt(x)/solution.py)|[Note](029.%20Sqrt(x)/README.md)|Easy|`Binary Search`|
+|30|[Missing Number](https://leetcode.com/problems/missing-number/)|[Python](030.%20Missing%20Number/solution.py)|[Note]030.%20Missing%20Number/README.md)|Easy|`Array`|
