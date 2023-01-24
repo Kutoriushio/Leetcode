@@ -34,3 +34,4 @@ Leetcode solutions in Python
 |28|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Python](028.%20First%20Bad%20Version/solution.py)|[Note](028.%20First%20Bad%20Version/README.md)|Easy|`Binary Search`|
 |29|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python](029.%20Sqrt(x)/solution.py)|[Note](029.%20Sqrt(x)/README.md)|Easy|`Binary Search`|
 |30|[Missing Number](https://leetcode.com/problems/missing-number/)|[Python](030.%20Missing%20Number/solution.py)|[Note](030.%20Missing%20Number/README.md)|Easy|`Array`|
+|31|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Python](031.%20Intersection%20of%20Two%20Arrays%20II/solution.py)|[Note](031.%20Intersection%20of%20Two%20Arrays%20II/README.md)|Easy|`Array`|
