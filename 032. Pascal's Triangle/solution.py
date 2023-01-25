@@ -9,6 +9,6 @@ class Solution:
                 elif j == i - 1:
                     temp.append(1)
                 else:
-                    temp.append(res[-1][j-1] + res[-1][j])
+                    temp.append(res[-1][j-1] + res[-1][j]) # calculate current line from previous line
             res.append(temp)
         return res
