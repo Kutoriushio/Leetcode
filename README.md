@@ -39,3 +39,4 @@ Leetcode solutions in Python
 |31|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Python](031.%20Intersection%20of%20Two%20Arrays%20II/solution.py)|[Note](031.%20Intersection%20of%20Two%20Arrays%20II/README.md)|Easy|`Array`|
 |32|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](032.%20Pascal's%20Triangle/solution.py)|/|Easy|`Array`|
 |33|[Single Number](https://leetcode.com/problems/single-number/)|[Python](033.%20Single%20Number/solution.py)|/|Easy|`Array`|
+|33|[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](034.%20Majority%20Element)|/|Easy|`Array`|
