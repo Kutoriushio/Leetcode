@@ -1,7 +1,7 @@
 # Leetcode
 Leetcode solutions in Python 
 
-(P.S: After question 31, in the absence of special circumstances, no more notes for easy problems will be written.)
+(P.S: After question 31, in the absence of special circumstances, instead of writing notes for easy questions, add some comments)
 
 |NO.|Title|Solution|Note|Difficulty|Tag|
 |---|-----|--------|----|----------|---|
