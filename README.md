@@ -1,5 +1,7 @@
 # Leetcode
-Leetcode solutions in Python
+Leetcode solutions in Python 
+
+(P.S: After question 31, in the absence of special circumstances, no further notes will be written.)
 
 |NO.|Title|Solution|Note|Difficulty|Tag|
 |---|-----|--------|----|----------|---|
