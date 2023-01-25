@@ -41,3 +41,4 @@ Leetcode solutions in Python
 |33|[Single Number](https://leetcode.com/problems/single-number/)|[Python](033.%20Single%20Number/solution.py)|/|Easy|`Array`|
 |34|[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](034.%20Majority%20Element/solution.py)|/|Easy|`Array`|
 |35|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](035.%20Contains%20Duplicate/solution.py)|/|Easy|`Array`|
+|36|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](036.%20Move%20Zeroes/solution.py)|/|Easy|`Array`|
