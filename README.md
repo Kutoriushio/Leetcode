@@ -37,4 +37,4 @@ Leetcode solutions in Python
 |29|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python](029.%20Sqrt(x)/solution.py)|[Note](029.%20Sqrt(x)/README.md)|Easy|`Binary Search`|
 |30|[Missing Number](https://leetcode.com/problems/missing-number/)|[Python](030.%20Missing%20Number/solution.py)|[Note](030.%20Missing%20Number/README.md)|Easy|`Array`|
 |31|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Python](031.%20Intersection%20of%20Two%20Arrays%20II/solution.py)|[Note](031.%20Intersection%20of%20Two%20Arrays%20II/README.md)|Easy|`Array`|
-|32|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](032.%20Pascal's%20Triangle/solution.py)|[Note](/)|Easy|`Array`|
+|32|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](032.%20Pascal's%20Triangle/solution.py)|[/]|Easy|`Array`|
