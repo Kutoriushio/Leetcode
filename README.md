@@ -43,3 +43,4 @@ Leetcode solutions in Python
 |35|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](035.%20Contains%20Duplicate/solution.py)|/|Easy|`Array`|
 |36|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](036.%20Move%20Zeroes/solution.py)|/|Easy|`Array`|
 |37|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](037.%20Validate%20Binary%20Search%20Tree/solution.py)|[Note](037.%20Validate%20Binary%20Search%20Tree/README.md)|Medium|`Tree`|
+|37|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)|[Python](038.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/solution.py)|[Note](038.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/README.md)|Medium|`Tree`|
