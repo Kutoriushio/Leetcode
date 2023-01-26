@@ -35,7 +35,7 @@ class Solution:
             
         
         return res
-# Morris Traversal：
+# Morris Traversal:
 class Solution:
     def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         answer = []
