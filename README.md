@@ -44,4 +44,4 @@ Leetcode solutions in Python
 |36|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](036.%20Move%20Zeroes/solution.py)|/|Easy|`Array`|
 |37|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](037.%20Validate%20Binary%20Search%20Tree/solution.py)|[Note](037.%20Validate%20Binary%20Search%20Tree/README.md)|Medium|`Tree`|
 |38|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)|[Python](038.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/solution.py)|[Note](038.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/README.md)|Medium|`Tree`|
-|38|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)|[Python](039.%20Binary%20Tree%20Preorder%20Traversal/solution.py)|[Note]|/|Easy|`Tree`|
+|38|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)|[Python](039.%20Binary%20Tree%20Preorder%20Traversal/solution.py)|/|Easy|`Tree`|
