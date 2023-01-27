@@ -47,3 +47,6 @@ Leetcode solutions in Python
 |39|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)|[Python](039.%20Binary%20Tree%20Preorder%20Traversal/solution.py)|/|Easy|`Tree`|
 |40|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)|[Python](040.%20Binary%20Tree%20Inorder%20Traversal/solution.py)|/|Easy|`Tree`|
 |41|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)|[Python](041.%20Binary%20Tree%20Postorder%20Traversal/solution.py)|/|Easy|`Tree`|
+|42|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[Python](042.Maximum%20Depth%20of%20Binary%20Tree/solution.py)|/|Easy|`Tree`|
+|43|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)|[Python](043.Symmetric%20Tree/solution.py)|/|Easy|`Tree`|
+|44|[Path Sum](https://leetcode.com/problems/path-sum/description/)|[Python](043.Path%Sum/solution.py)|/|Easy|`Tree`|
