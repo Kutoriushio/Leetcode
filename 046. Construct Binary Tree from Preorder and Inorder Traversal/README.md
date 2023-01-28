@@ -14,8 +14,8 @@
 
 2. Enumerate each node in the forward traversal in turn, except for the first node.
 
--- If index happens to point to the top of the stack, then we keep popping the top node and moving index to the right, and use the current node as the right child of the last node popped.
+- If index happens to point to the top of the stack, then we keep popping the top node and moving index to the right, and use the current node as the right child of the last node popped.
 
--- if index is different from the top of the stack node, we treat the current node as the left child of the top of the stack node.
+- if index is different from the top of the stack node, we treat the current node as the left child of the top of the stack node.
 
 3. Add the current node to the stack.
