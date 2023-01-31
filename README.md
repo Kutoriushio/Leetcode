@@ -58,4 +58,4 @@ Leetcode solutions in Python
 |50|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)|[Python](050.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/solution.py)|[Note](050.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/README.md)|Medium|`Tree`|
 |51|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)|[Python](051.%20Serialize%20and%20Deserialize%20Binary%20Tree/solution.py)|[Note](051.%20Serialize%20and%20Deserialize%20Binary%20Tree/README.md)|Hard|`Tree`|
 |52|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/)|[Python](052.%20Binary%20Search%20Tree%20Iterator/solution.py)|[Note](052.%20Binary%20Search%20Tree%20Iterator/README.md)|Medium|`Binary Search Tree`|
-
+|53|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)|[Python](053.%20Search%20in%20a%20Binary%20Search%20Tree/solution.py)|[/]|Easy|`Binary Search Tree`|
