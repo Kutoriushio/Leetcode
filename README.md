@@ -61,3 +61,4 @@ Leetcode solutions in Python
 |53|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)|[Python](053.%20Search%20in%20a%20Binary%20Search%20Tree/solution.py)|/|Easy|`Binary Search Tree`|
 |54|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)|[Python](054.%20Insert%20into%20a%20Binary%20Search%20Tree/solution.py)|/|Medium|`Binary Search Tree`|
 |55|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)|[Python](055.%20Delete%20Node%20in%20a%20BST/solution.py)|[Note](055.%20Delete%20Node%20in%20a%20BST/README.md)|Medium|`Binary Search Tree`|
+|56|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)|[Python](056.%20Kth%20Largest%20Element%20in%20a%20Stream/solution.py)|/|Easy|`Heap`|
