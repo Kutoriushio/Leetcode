@@ -1,6 +1,6 @@
 # Solution(Python)
 
-## Two traversals:
+## Two traversals(TC(O(N)) SC(O(N))):
 1. Traversal from the root node.
 
 2. If the current node is `p`, then the node was successfully found.
@@ -13,7 +13,7 @@
 
 6. The lowest common ancestor of `p` and `q` is the last identical node.
 
-## One traversal:
+## One traversal (TC(O(N)) SC(O(1))):
 
 1. Traverse from the root node.
 
