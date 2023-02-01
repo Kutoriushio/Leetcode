@@ -1,4 +1,4 @@
-# Solution(Python)
+# Solution(Python) TC(O(N)) SC(O(log(N)))
 
 1. The middle node of an ordered array is the root node.
 
