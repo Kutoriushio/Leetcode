@@ -64,3 +64,4 @@ Leetcode solutions in Python
 |56|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)|[Python](056.%20Kth%20Largest%20Element%20in%20a%20Stream/solution.py)|/|Easy|`Heap`|
 |57|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)|[Python](057.%20Balanced%20Binary%20Tree/solution.py)|/|Easy|`Binary Tree`|
 |58|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[Python](058.%20Container%20With%20Most%20Water/solution.py)|[Note](058.%20Container%20With%20Most%20Water/README.md)|Medium|`Array`|
+|59|[3 Sum](https://leetcode.com/problems/3-sum/description/)|[Python](059.%203Sum/solution.py)|[Note](059.%203Sum/README.md)|Medium|`Array`|
