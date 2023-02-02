@@ -1,3 +1,4 @@
+# TC(O(log(N))) SC(O(1))
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
         if not nums:
