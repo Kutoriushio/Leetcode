@@ -67,3 +67,4 @@ Leetcode solutions in Python
 |59|[3Sum](https://leetcode.com/problems/3sum/description/)|[Python](059.%203Sum/solution.py)|[Note](059.%203Sum/README.md)|Medium|`Array`|
 |60|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Python](060.%20Search%20in%20Rotated%20Sorted%20Array/solution.py)|[Note](060.%20Search%20in%20Rotated%20Sorted%20Array/README.md)|Medium|`Array`|
 |61|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[Python](061.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/solution.py)|/|Medium|`Array`|
+|62|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[Python](062.%20Valid%20Sudoku/solution.py)|/|Medium|`Array`|
