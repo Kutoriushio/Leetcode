@@ -69,3 +69,4 @@ Leetcode solutions in Python
 |61|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[Python](061.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/solution.py)|/|Medium|`Array`|
 |62|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[Python](062.%20Valid%20Sudoku/solution.py)|/|Medium|`Array`|
 |63|[Permutations](https://leetcode.com/problems/permutations/description/)|[Python](063.%20Permutations/solution.py)|[Note](063.%20Permutations/README.md)|Medium|`Array`|
+|64|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[Python](064.%20Rotate%20Image/solution.py)|[Note](064.%20Rotate%20Image/README.md)|Medium|`Array`|
