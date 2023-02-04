@@ -70,3 +70,4 @@ Leetcode solutions in Python
 |62|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[Python](062.%20Valid%20Sudoku/solution.py)|/|Medium|`Array`|
 |63|[Permutations](https://leetcode.com/problems/permutations/description/)|[Python](063.%20Permutations/solution.py)|[Note](063.%20Permutations/README.md)|Medium|`Array`|
 |64|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[Python](064.%20Rotate%20Image/solution.py)|[Note](064.%20Rotate%20Image/README.md)|Medium|`Array`|
+|65|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Python](065.%20Group%20Anagrams/solution.py)|[Note](065.%20Group%20Anagrams/README.md)|Medium|`Array`|
