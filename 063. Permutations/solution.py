@@ -2,7 +2,7 @@ class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         def dfs(nums, res, path, used, depth):
             if depth == len(nums):
-                return res.append(path[:])
+                return res.append(path[:]) # backtracking will clear the state, so we need append the copy of path
             
             for i in range(len(nums)):
                 if not used[i]:
