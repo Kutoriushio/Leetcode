@@ -72,3 +72,5 @@ Leetcode solutions in Python
 |64|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[Python](064.%20Rotate%20Image/solution.py)|[Note](064.%20Rotate%20Image/README.md)|Medium|`Array`|
 |65|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Python](065.%20Group%20Anagrams/solution.py)|[Note](065.%20Group%20Anagrams/README.md)|Medium|`Array`|
 |66|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[Python](066.%20Maximum%20Subarray/solution.py)|[Note](066.%20Maximum%20Subarray/README.md)|Medium|`Array`|
+|67|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)|[Python](067.%20Spiral%20Matrix/solution.py)|[Note](067.%20Spiral%20Matrix/README.md)|Medium|`Array`|
+
