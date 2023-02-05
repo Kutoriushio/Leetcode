@@ -73,4 +73,4 @@ Leetcode solutions in Python
 |65|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Python](065.%20Group%20Anagrams/solution.py)|[Note](065.%20Group%20Anagrams/README.md)|Medium|`Array`|
 |66|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[Python](066.%20Maximum%20Subarray/solution.py)|[Note](066.%20Maximum%20Subarray/README.md)|Medium|`Array`|
 |67|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)|[Python](067.%20Spiral%20Matrix/solution.py)|[Note](067.%20Spiral%20Matrix/README.md)|Medium|`Array`|
-
+|68|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[Python](068.%20Jump%20Game/solution.py)|[Note](068.%20Jump%20Game/README.md)|Medium|`Array`|
