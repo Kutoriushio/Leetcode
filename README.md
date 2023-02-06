@@ -75,3 +75,4 @@ Leetcode solutions in Python
 |67|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)|[Python](067.%20Spiral%20Matrix/solution.py)|[Note](067.%20Spiral%20Matrix/README.md)|Medium|`Array`|
 |68|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[Python](068.%20Jump%20Game/solution.py)|[Note](068.%20Jump%20Game/README.md)|Medium|`Array`|
 |69|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[Python](069.%20Merge%20Intervals/solution.py)|[Note](069.%20Merge%20Intervals/README.md)|Medium|`Array`|
+|70|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)|[Python](070.%20Set%20Matrix%20Zeroes/solution.py)|[Note](070.%20Set%20Matrix%20Zeroess/README.md)|Medium|`Array`|
