@@ -77,3 +77,4 @@ Leetcode solutions in Python
 |69|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[Python](069.%20Merge%20Intervals/solution.py)|[Note](069.%20Merge%20Intervals/README.md)|Medium|`Array`|
 |70|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)|[Python](070.%20Set%20Matrix%20Zeroes/solution.py)|[Note](070.%20Set%20Matrix%20Zeroes/README.md)|Medium|`Array`|
 |71|[Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Python](071.%20Sort%20Colors/solution.py)|[Note](071.%20Sort%20Colors/README.md)|Medium|`Array`|
+|72|[Subsets](https://leetcode.com/problems/subsets/description/)|[Python](072.%20Subsets/solution.py)|[Note](072.%20Subsets/README.md)|Medium|`Array`|
