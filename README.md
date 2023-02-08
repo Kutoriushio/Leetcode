@@ -78,3 +78,4 @@ Leetcode solutions in Python
 |70|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)|[Python](070.%20Set%20Matrix%20Zeroes/solution.py)|[Note](070.%20Set%20Matrix%20Zeroes/README.md)|Medium|`Array`|
 |71|[Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Python](071.%20Sort%20Colors/solution.py)|[Note](071.%20Sort%20Colors/README.md)|Medium|`Array`|
 |72|[Subsets](https://leetcode.com/problems/subsets/description/)|[Python](072.%20Subsets/solution.py)|[Note](072.%20Subsets/README.md)|Medium|`Array`|
+|73|[Word Search](https://leetcode.com/problems/word-search/description/)|[Python](073.%20Word%20Search/solution.py)|[Note](073.%20Word%20Search/README.md)|Medium|`Array`|
