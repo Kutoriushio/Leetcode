@@ -79,3 +79,4 @@ Leetcode solutions in Python
 |71|[Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Python](071.%20Sort%20Colors/solution.py)|[Note](071.%20Sort%20Colors/README.md)|Medium|`Array`|
 |72|[Subsets](https://leetcode.com/problems/subsets/description/)|[Python](072.%20Subsets/solution.py)|[Note](072.%20Subsets/README.md)|Medium|`Array`|
 |73|[Word Search](https://leetcode.com/problems/word-search/description/)|[Python](073.%20Word%20Search/solution.py)|[Note](073.%20Word%20Search/README.md)|Medium|`Array`|
+|74|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|[Python](074.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/solution.py)|[Note](074.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/README.md)|Medium|`Array`|
