@@ -84,3 +84,4 @@ Leetcode solutions in Python
 |76|[Gas Station](https://leetcode.com/problems/gas-station/description/)|[Python](076.%20Gas%20Station/solution.py)|[Note](076.%20Gas%20Station/README.md)|Medium|`Array`|
 |77|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)|[Python](077.%20Evaluate%20Reverse%20Polish%20Notation/solution.py)|[Note](077.%20Evaluate%20Reverse%20Polish%20Notation/README.md)|Medium|`Array`|
 |78|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|[Python](078.%20Maximum%20Product%20Subarray/solution.py)|[Note](078.%20Maximum%20Product%20Subarray/README.md)|Medium|`Array`|
+|79|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[Python](079.%20Find%20Peak%20Element/solution.py)|[Note](079.%20Find%20Peak%20Element/README.md)|Medium|`Array`|
