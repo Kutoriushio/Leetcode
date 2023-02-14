@@ -4,10 +4,12 @@ class Solution:
         max_num = 1
         min_num = 1
         for num in nums:
-            maxN = max_num
-            minN = min_num
-            max_num = max(maxN * num, num, minN * num)
-            min_num = min(minN * num, num, maxN * num)
+            if num < 0:
+                temp = max_num
+                max_num = min_num
+                min_num = temp
+            max_num = max(max_num * num, num)
+            min_num = min(min_num * num, num)
             res = max(max_num, res)
         
         return res
