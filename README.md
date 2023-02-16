@@ -86,3 +86,4 @@ Leetcode solutions in Python
 |78|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|[Python](078.%20Maximum%20Product%20Subarray/solution.py)|[Note](078.%20Maximum%20Product%20Subarray/README.md)|Medium|`Array`|
 |79|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[Python](079.%20Find%20Peak%20Element/solution.py)|[Note](079.%20Find%20Peak%20Element/README.md)|Medium|`Array`|
 |80|[Largest Number](https://leetcode.com/problems/largest-number/description/)|[Python](080.%20Largest%20Number/solution.py)|[Note](080.%20Largest%20Number/README.md)|Medium|`Array`|
+|81|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)|[Python](081.%20Surrounded%20Regions/solution.py)|[Note](081.%20Surrounded%20Regions/README.md)|Medium|`Array`|
