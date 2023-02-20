@@ -89,3 +89,4 @@ Leetcode solutions in Python
 |81|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)|[Python](081.%20Surrounded%20Regions/solution.py)|[Note](081.%20Surrounded%20Regions/README.md)|Medium|`Array`|
 |82|[Rotate Array](https://leetcode.com/problems/rotate-array/description/)|[Python](082.%20Rotate%20Array/solution.py)|[Note](082.%20Rotate%20Array/README.md)|Medium|`Array`|
 |83|[Word Break](https://leetcode.com/problems/word-break/description/)|[Python](083.%20Word%20Break/solution.py)|[Note](083.%20Word%20Break/README.md)|Medium|`Array`|
+|84|[House Robber](https://leetcode.com/problems/house-robbeR/description/)|[Python](084.%20House%20Robber/solution.py)|[Note](084.%20House%20Robber/README.md)|Medium|`Array`|
