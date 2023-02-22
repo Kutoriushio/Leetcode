@@ -91,3 +91,4 @@ Leetcode solutions in Python
 |83|[Word Break](https://leetcode.com/problems/word-break/description/)|[Python](083.%20Word%20Break/solution.py)|[Note](083.%20Word%20Break/README.md)|Medium|`Array`|
 |84|[House Robber](https://leetcode.com/problems/house-robber/description/)|[Python](084.%20House%20Robber/solution.py)|[Note](084.%20House%20Robber/README.md)|Medium|`Array`|
 |85|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/)|[Python](085.%20Number%20of%20Islands/solution.py)|[Note](085.%20Number%20of%20Islands/README.md)|Medium|`Array`|
+|86|[Count Primes](https://leetcode.com/problems/count-primes/description/)|[Python](086.%20Count%20Primes/solution.py)|[Note](086.%20Count%20Primes/README.md)|Medium|`Array`|
