@@ -100,3 +100,4 @@ Leetcode solutions in Python
 |92|[Game of Life](https://leetcode.com/problems/game-of-life/description/)|[Python](092.%20Game%20of%20Life/solution.py)|[Note](092.%20Game%20of%20Life/README.md)|Medium|`Array`|
 |93|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[Python](093.%20Longest%20Increasing%20Subsequence/solution.py)|[Note](093.%20Longest%20Increasing%20Subsequence/README.md)|Medium|`Array` `Dynamic Programming`|
 |94|[Coin Change](https://leetcode.com/problems/coin-change/description/)|[Python](094.%20Coin%20Change/solution.py)|[Note](094.%20Coin%20Change/README.md)|Medium|`Array` `Dynamic Programming`|
+|95|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/)|[Python](095.%20Increasing%20Triplet%20Subsequence/solution.py)|[Note](095.%20Increasing%20Triplet%20Subsequence/README.md)|Medium|`Array` `Greedy`|
