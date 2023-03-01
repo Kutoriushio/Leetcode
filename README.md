@@ -101,3 +101,4 @@ Leetcode solutions in Python
 |93|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[Python](093.%20Longest%20Increasing%20Subsequence/solution.py)|[Note](093.%20Longest%20Increasing%20Subsequence/README.md)|Medium|`Array` `Dynamic Programming`|
 |94|[Coin Change](https://leetcode.com/problems/coin-change/description/)|[Python](094.%20Coin%20Change/solution.py)|[Note](094.%20Coin%20Change/README.md)|Medium|`Array` `Dynamic Programming`|
 |95|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/)|[Python](095.%20Increasing%20Triplet%20Subsequence/solution.py)|[Note](095.%20Increasing%20Triplet%20Subsequence/README.md)|Medium|`Array` `Greedy`|
+|96|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/description/)|[Python](096.%20Wiggle%20Sort%20II/solution.py)|[Note](096.%20Wiggle%20Sort%20II/README.md)|Medium|`Array`|
