@@ -106,4 +106,4 @@ Leetcode solutions in Python
 |98|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)|[Python](098.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/solution.py)|[Note](098.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/README.md)|Medium|`Array` `Heap` `Binary Search`|
 |99|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)|[Python](099.%20Insert%20Delete%20GetRandom%20O(1)/solution.py)|[Note](099.%20Insert%20Delete%20GetRandom%20O(1)/README.md)|Medium|`Array` `Hash Table`| 
 |100|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/)|[Python](100.%20Shuffle%20an%20Array/solution.py)|[Note](100.%20Shuffle%20an%20Array/README.md)|Medium|`Array`| 
-|101|4 Sum](https://leetcode.com/problems/4-sum/description/)|[Python](101.%204Sum/solution.py)|[Note](101.%204Sum/README.md)|Medium|`Array` `Two Pointers`| 
+|101|[4 Sum](https://leetcode.com/problems/4sum/description/)|[Python](101.%204Sum/solution.py)|[Note](101.%204Sum/README.md)|Medium|`Array` `Two Pointers`| 
