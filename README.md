@@ -113,4 +113,4 @@ Leetcode solutions in Python
 |105|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)|[Python](105.%20String%20to%20Integer%20(atoi)/solution.py)|[Note](105.%20String%20to%20Integer%20(atoi)/README.md)|Medium|`String`| 
 |106|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|[Python](106.%20Letter%20Combinations%20of%20a%20Phone%20Number/solution.py)|[Note](106.%20Letter%20Combinations%20of%20a%20Phone%20Number/README.md)|Medium|`String` `Backtracking`| 
 |107|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)|[Python](107.%20Generate%20Parentheses/solution.py)|[Note](107.%20Generate%20Parentheses/README.md)|Medium|`String` `Backtracking`| 
-
+|108|[Decode Ways](https://leetcode.com/problems/decode-ways/description/)|[Python](108.%20%20Decode%20Ways/solution.py)|[Note](108.%20%20Decode%20Ways/README.md)|Medium|`String` `Dynamic Programming`| 
